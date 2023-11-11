@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/582804441036745157/64a106feb9324f889882ea63e21fedcf/artifacts
+end_time: 1699536464726
+entry_point_name: ''
+experiment_id: '582804441036745157'
+lifecycle_stage: active
+run_id: 64a106feb9324f889882ea63e21fedcf
+run_name: Random Forest with imbalance
+run_uuid: 64a106feb9324f889882ea63e21fedcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699535606604
+status: 3
+tags: []
+user_id: noppawee

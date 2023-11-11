@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/582804441036745157/9efbf33319c342f08a945307fb919e2e/artifacts
+end_time: 1699535600885
+entry_point_name: ''
+experiment_id: '582804441036745157'
+lifecycle_stage: active
+run_id: 9efbf33319c342f08a945307fb919e2e
+run_name: Logistic Regression with imbalance
+run_uuid: 9efbf33319c342f08a945307fb919e2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699535585990
+status: 3
+tags: []
+user_id: noppawee

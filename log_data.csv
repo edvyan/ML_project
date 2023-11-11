@@ -1,0 +1,2 @@
+Amount,newbalanceOrig,newbalanceDest,Transaction_Type,blacklist_flag_org,blacklist_flag_dest,Prediction
+8.0,8.0,8.0,CASH_IN,1.0,1.0,0

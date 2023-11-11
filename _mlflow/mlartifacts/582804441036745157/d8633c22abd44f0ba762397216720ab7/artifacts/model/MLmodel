@@ -1,0 +1,27 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.6.0
+model_uuid: 1bde928712d64d5f916b27e6596c6411
+run_id: d8633c22abd44f0ba762397216720ab7
+signature:
+  inputs: '[{"type": "double", "name": "amount"}, {"type": "double", "name": "newbalanceOrig"},
+    {"type": "double", "name": "newbalanceDest"}, {"type": "double", "name": "type_CASH_IN"},
+    {"type": "double", "name": "type_CASH_OUT"}, {"type": "double", "name": "type_DEBIT"},
+    {"type": "double", "name": "type_PAYMENT"}, {"type": "double", "name": "type_TRANSFER"},
+    {"type": "long", "name": "blacklist_flag_org"}, {"type": "long", "name": "blacklist_flag_dest"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-11-09 13:13:24.195315'

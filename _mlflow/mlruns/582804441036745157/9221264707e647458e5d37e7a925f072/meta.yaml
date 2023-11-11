@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/582804441036745157/9221264707e647458e5d37e7a925f072/artifacts
+deleted_time: 1699535529672
+end_time: 1699531368408
+entry_point_name: ''
+experiment_id: '582804441036745157'
+lifecycle_stage: deleted
+run_id: 9221264707e647458e5d37e7a925f072
+run_name: XGboost with imbalance
+run_uuid: 9221264707e647458e5d37e7a925f072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699531348524
+status: 3
+tags: []
+user_id: noppawee

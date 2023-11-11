@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/582804441036745157/cb4ef98f429d41ea8dd8b41ada6f1278/artifacts
+deleted_time: 1699535529667
+end_time: null
+entry_point_name: ''
+experiment_id: '582804441036745157'
+lifecycle_stage: deleted
+run_id: cb4ef98f429d41ea8dd8b41ada6f1278
+run_name: SVC with imbalance
+run_uuid: cb4ef98f429d41ea8dd8b41ada6f1278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699531368601
+status: 1
+tags: []
+user_id: noppawee

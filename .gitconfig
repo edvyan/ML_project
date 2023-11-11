@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Noppawee Teeraratchanon
+	email = earthhnopp@gmail.com
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/2b35e1e6d88f1ce073683991d1eff5284a32690f/node /tmp/vscode-remote-containers-207e344a-7abc-43de-ae7f-3af2268bdb85.js git-credential-helper $*; }; f"

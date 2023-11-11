@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/582804441036745157/8529ff0981a6418b8406a69dcb54c1e6/artifacts
+deleted_time: 1699535529670
+end_time: 1699530464233
+entry_point_name: ''
+experiment_id: '582804441036745157'
+lifecycle_stage: deleted
+run_id: 8529ff0981a6418b8406a69dcb54c1e6
+run_name: Naive Bayesian - Gaussian with imbalance
+run_uuid: 8529ff0981a6418b8406a69dcb54c1e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699530458923
+status: 3
+tags: []
+user_id: noppawee
